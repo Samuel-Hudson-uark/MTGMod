@@ -1,0 +1,10 @@
+{
+  "item.mtgmod.rubyitem": "Ruby",
+  "item.mtgmod.magiccard": "Magic Card",
+  "item.mtgmod.deckbox": "Deck Box",
+  "block.mtgmod.rubyblock": "Ruby Block",
+  "block.mtgmod.rubyore": "Ruby Ore",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.mtgmod": "MTG Mod"
+}

@@ -1,0 +1,12 @@
+{
+  "ingredients": [
+    {
+      "item": "mtgmod:rubyblock"
+    }
+  ],
+  "result":
+  {
+    "item": "mtgmod:rubyitem",
+    "count": 9
+  }
+}
